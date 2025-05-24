@@ -12,6 +12,10 @@ namespace TodoEnUnoHolaMundo
     {
       Console.WriteLine("Hola Mundo");
       Console.ReadLine();
+      Console.WriteLine("Segundo cambio en codigo");
+      Console.ReadLine();
+      Console.WriteLine("Tercero");
+
     }
   }
 }
