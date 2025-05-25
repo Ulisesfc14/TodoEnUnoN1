@@ -31,6 +31,6 @@ namespace RegistroEstudiante
                                  " y mi nota final fue" + dblNota1):
       }
 
-    }//main
+    }//main as
   }
 } 
